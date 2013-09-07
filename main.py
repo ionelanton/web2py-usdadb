@@ -18,7 +18,7 @@ def import_usda_data():
     for table_name, url in usda_data:
         csv_file_path = os.path.join('uploads', table_name + '.csv')
         _upload_data(table_name, url, csv_file_path, delimiter, quotechar)
-        os.remove(csv_file_path)
+        #os.remove(csv_file_path)
 
     print 'USDA database created/updated!'
 
