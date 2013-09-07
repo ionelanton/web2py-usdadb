@@ -12,10 +12,10 @@ Requirements
 * Python 2.6.x
 
 Utilization
-------------
-#. Copy the `web2py-usdadb` into a folder of your choice
-#. Change the connection string in `model/db.py` to point to your database
-#. run `python main.py` within `web2py-usdadb` folder
+-----------
+* Copy the `web2py-usdadb` into a folder of your choice
+* Change the connection string in `model/db.py` to point to your database
+* run `python main.py` within `web2py-usdadb` folder
 
 Imported tables
 ---------------
