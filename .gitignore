@@ -1,0 +1,8 @@
+.hg
+.idea/workspace.xml
+*.elc
+*.pyc
+*~
+.directory
+*.log
+
